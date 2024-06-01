@@ -16,7 +16,7 @@ body{
 }
 
 .dev {
-    width: 100%;
+    width: 150px;
     text-align: center;
     display: flex;
     justify-content: center;
